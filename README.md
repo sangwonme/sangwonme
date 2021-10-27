@@ -1,6 +1,6 @@
 ### Hi I'm Sangwon 👋
-🌱 I'm currently learning Electrical Computer Enginnering and Information Social Culutre in SNU.
-📫 paulmoguri@naver.com
+- 🌱 I'm currently learning Electrical Computer Enginnering and Information Social Culutre in SNU.
+- 📫 paulmoguri@naver.com
 
 ![Sangwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangwonme&show_icons=true&theme=vue)
 
