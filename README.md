@@ -1,5 +1,5 @@
 ### Hi I'm Sangwon 👋
-- 🌱 I'm currently studying Electrical Computer Enginnering and Human Computer Interaction in SNU.
+- 🌱 I studied Electrical Computer Enginnering and Human Computer Interaction in SNU.
 - 📫 paulmoguri@snu.ac.kr
 
 ![Sangwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangwonme&show_icons=true&theme=vue)
