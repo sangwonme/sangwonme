@@ -3,6 +3,8 @@
 - 🌷 I'm currently doing an internship at [Human-Centered Computer Systems Lab](https://hcs.snu.ac.kr/).
 - 📫 paulmoguri@naver.com
 
+---
+
 ### 💡 Interests 
 - Human Computer Interaction (HCI) & Human AI Interaction (HAI)
 - Extended Reality (XR)
@@ -10,13 +12,16 @@
 I have a wide range of interests. 
 Wherever my interests may lie, I enjoy engaging in creative thinking and bringing my ideas to life.
 
+---
+
 ### 🎨 Funs
 I also love animating and game design.
 This is one of my works! [📺](https://www.youtube.com/watch?v=g8EgYD5E-vE)
 
-![Sangwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangwonme&show_icons=true&theme=vue)
 
 <!--
+![Sangwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangwonme&show_icons=true&theme=vue)
+
 **sangwonme/sangwonme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangwonme&layout=compact&theme=vue&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
