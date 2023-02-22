@@ -1,6 +1,18 @@
-### Hi I'm Sangwon 👋
-- 🌱 I studied Electrical Computer Enginnering and Human Computer Interaction in SNU.
-- 📫 paulmoguri@snu.ac.kr
+### 👋 Hi I'm Sangwon 
+- 🌱 I studied Electrical Computer Enginnering(2017-) and Human Computer Interaction(2020-) in SNU.
+- 🌷 I'm currently doing an internship at [Human-Centered Computer Systems Lab](https://hcs.snu.ac.kr/).
+- 📫 paulmoguri@naver.com
+
+### 💡 Interests 
+- Human Computer Interaction (HCI) & Human AI Interaction (HAI)
+- Extended Reality (XR)
+- Mobile Healthcare
+I have a wide range of interests. 
+Wherever my interests may lie, I enjoy engaging in creative thinking and bringing my ideas to life.
+
+### 🎨 Funs
+I also love animating and game design.
+This is one of my works! [📺](https://www.youtube.com/watch?v=g8EgYD5E-vE)
 
 ![Sangwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangwonme&show_icons=true&theme=vue)
 
