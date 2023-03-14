@@ -11,6 +11,7 @@ Wherever my interests may lie, I enjoy engaging in creative thinking and bringin
 - Human Computer Interaction (HCI) & Human AI Interaction (HAI)
 - Extended Reality (XR)
 - Mobile Healthcare
+- Computer Supported Cooperative Work & Task Management
 
 ---
 
