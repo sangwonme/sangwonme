@@ -16,7 +16,7 @@ Wherever my interests may lie, I enjoy engaging in creative thinking and bringin
 ---
 
 ### 🎨 Funs
-I also love animating and game design.
+I also love animating and designing game system.
 This is one of my works! [📺](https://www.youtube.com/watch?v=g8EgYD5E-vE)
 
 
