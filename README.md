@@ -9,9 +9,8 @@
 I have a wide range of interests. 
 Wherever my interests may lie, I enjoy engaging in creative thinking and bringing my ideas to life.
 - Human Computer Interaction (HCI) → Human AI Interaction (HAI)
-- Computer Vision → Scene Understanding
-- Mobile Healthcare
-- Computer Supported Cooperative Work → Task Management
+- XR → AR Applications
+- Computer Supported Cooperative Work
 
 ---
 
