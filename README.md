@@ -1,5 +1,5 @@
 ### 👋 Hi I'm Sangwon 
-- 🌱 I studied Electrical Computer Enginnering(2017-) and Human Computer Interaction(2020-) in SNU.
+- 🌱 I studied Electrical Computer Enginnering(2017-) and Information Science & Culture(2020-) in SNU.
 - 🌷 I'm currently doing an internship at [Human-Centered Computer Systems Lab](https://hcs.snu.ac.kr/).
 - 📫 paulmoguri@naver.com
 
@@ -10,7 +10,7 @@ I have a wide range of interests.
 Wherever my interests may lie, I enjoy engaging in creative thinking and bringing my ideas to life.
 - Human Computer Interaction (HCI) → Human AI Interaction (HAI)
 - XR → AR Applications
-- Computer Supported Cooperative Work
+- Computer Supported Cooperative Learning
 
 ---
 
