@@ -9,8 +9,7 @@
 I have a wide range of interests. 
 Wherever my interests may lie, I enjoy engaging in creative thinking and bringing my ideas to life.
 - Human Computer Interaction (HCI) → Human AI Interaction (HAI)
-- XR → AR Applications
-- Computer Supported Cooperative Learning
+- HealthCare, ChildCare, CSCW(CSCL)
 
 ---
 
