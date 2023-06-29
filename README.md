@@ -1,6 +1,6 @@
 ### 👋 Hi I'm Sangwon 
 - 🌱 I studied Electrical Computer Enginnering(2017-) and Information Science & Culture(2020-) in SNU.
-- 🌷 I'm currently doing an internship at [Human-Centered Computer Systems Lab](https://hcs.snu.ac.kr/).
+- 🌷 I'm working at [Human-Centered Computer Systems Lab](https://hcs.snu.ac.kr/).
 - 📫 paulmoguri@naver.com
 
 ---
