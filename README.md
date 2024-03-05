@@ -1,21 +1,24 @@
 ### 👋 Hi I'm Sangwon 
-- 🌱 I studied Electrical Computer Enginnering(2017-) and Information Science & Culture(2020-) in SNU.
-- 🌷 I'm working at [Human-Centered Computer Systems Lab](https://hcs.snu.ac.kr/).
+- ✨ HCI Researcher
+- 🌷 Graduate student at [Human-Centered Computer Systems Lab](https://hcs.snu.ac.kr/)
+- 👨‍🎓 _B.S. Electrical Computer Enginnering(2017-2023)_ and _B.A. Information Science & Culture(2020-2023)_ in SNU.
 - 📫 paulmoguri@naver.com
 
 ---
 
-### 💡 Interests 
+### 💡 Research Interests 
 I have a wide range of interests. 
 Wherever my interests may lie, I enjoy engaging in creative thinking and bringing my ideas to life.
-- Human Computer Interaction (HCI) → Human AI Interaction (HAI)
-- ChildCare, HealthCare, CSCW(CSCL)
+- Human-Computer Interaction (HCI)
+- Human-AI Interaction (HAI)
+- ChildCare & HealthCare
+- Robotics
 
 ---
 
 ### 🎨 Funs
-I also love animating and designing game system.
-This is one of my works! [📺](https://www.youtube.com/watch?v=g8EgYD5E-vE)
+I also love drawing and animating.
+This is one of my works! [📺 Watch Video](https://www.youtube.com/watch?v=g8EgYD5E-vE)
 
 
 <!--
