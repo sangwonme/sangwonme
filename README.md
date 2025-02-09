@@ -1,6 +1,6 @@
 ### 👋 Hi I'm Sangwon 
 - ✨ HCI Researcher
-- 🌷 Graduate student at [Human-Centered Computer Systems Lab](https://hcs.snu.ac.kr/)
+- 🌷 Graduate student (MS/PhD) at [Human-Centered Computer Systems Lab](https://hcs.snu.ac.kr/)
 - 👨‍🎓 _B.S. Electrical Computer Enginnering(2017-2023)_ and _B.A. Information Science & Culture(2020-2023)_ in SNU.
 - 📫 paulmoguri@naver.com
 
